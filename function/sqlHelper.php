@@ -1,3 +1,12 @@
+<!-- ==============================================================
+     TUcomattendClient: SQL functions
+     Available functions:
+     *  selectDB
+     *  landingFailed
+     *  work
+     Copyright (C) 2020-2021, Bhumipat Apipunnakul TU83
+     ============================================================== -->
+
 <?php
 //select database function
     function selectDB($conn, $dbname)

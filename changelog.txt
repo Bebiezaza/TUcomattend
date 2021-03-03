@@ -5,6 +5,9 @@
 * = Changed, Tweaked, Fixed
 
 
+1.0.1
+	+ credit page and copyright notice in codes
+	
 1.0.0
 	* properly named function files
 	

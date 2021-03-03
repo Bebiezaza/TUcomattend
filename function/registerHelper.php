@@ -1,3 +1,12 @@
+<!-- ==============================================================
+     TUcomattendClient: register functions
+     Available functions:
+     *  registerFailed
+     *  registerWrite
+     *  optionLoop
+     Copyright (C) 2020-2021, Bhumipat Apipunnakul TU83
+     ============================================================== -->
+
 <?php
 //register failed function
     function registerFailed($conn, $text)
